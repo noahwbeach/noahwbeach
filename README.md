@@ -1,4 +1,4 @@
-### Hey! My name is 🌊 Noah Beach 🌊
+### 🌊 Hey! My name is Noah Beach 🌊
 
 ## I'm just a guy trying to sharpen my skills as a developer
 - I'm currently working through data structures and algorithms in C
